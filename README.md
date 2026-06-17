@@ -7,7 +7,7 @@ I build modern C++ libraries, metaprogramming tools, and binary analysis systems
 * [ReArk](https://github.com/lkimuk/ReArk) — A professional reverse engineering tool for HarmonyOS NEXT.
 * [gmp](https://github.com/lkimuk/gmp) — A C++ metaprogramming library for compile-time code generation.
 * [AI Policy Runtime](https://github.com/lkimuk/ai-policy-runtime) — Generate better AI code with task-aware policies.
-* [ksana](https://github.com/lkimuk/ksana) — Analyze your WeChat data locally, privately, and effortlessly.
+* [ksana](https://github.com/lkimuk/ksana) — A mysterious project.
 * Hyle — A universal parser for binary file formats. (private)
 * Wuwe — A C++20 framework for building intelligent agents. (private)
 
