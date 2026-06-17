@@ -11,7 +11,7 @@ I build modern C++ libraries, metaprogramming tools, and binary analysis systems
 * Hyle — A universal parser for binary file formats. (private)
 * Wuwe — A C++20 framework for building intelligent agents. (private)
 
-## Free Books 📚
+## Books 📚
 
 * [C++ Generative Metaprogramming](https://github.com/lkimuk/cpp-generative-metaprogramming) — Materials about generative metaprogramming in C++.
 * [The Book of Modern C++](https://github.com/lkimuk/the-book-of-modern-cpp) — Notes and chapters on Modern C++.
