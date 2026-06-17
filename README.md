@@ -27,17 +27,6 @@ I build modern C++ libraries, metaprogramming tools, and binary analysis systems
 * Edge computing and simulation frameworks
 * AI Agent frameworks and AI workflow exploration
 
-## Interests
-
-- Programming, software design, and developer tools
-- Writing, technical communication, and knowledge organization
-- English, French, and Japanese
-- Philosophy, psychology, economics, logic, and cognitive science
-- Chinese ancient history, classical literature, poetry, epigraphy, and strange tales
-- Layout design, typography, and color composition
-- Photography, travel, and urban observation
-- Social research and urban analysis
-
 ## Stats 📊
 
 ![lkimuk's Stats](https://github-readme-stats.vercel.app/api?username=lkimuk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
